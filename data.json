@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Understanding React Hooks",
+        "content": "React hooks are functions that let you use state and other React features without writing a class...",
+        "category": "React",
+        "author": "John Doe",
+        "image": "https://example.com/images/react-hooks.jpg",
+        "createdAt": "2024-09-01T10:00:00Z",
+        "updatedAt": "2024-09-01T10:00:00Z"
+    },
+    {
+        "title": "An Introduction to React Native",
+        "content": "React Native is a framework for building native apps using React. It allows developers to use React along with native platform capabilities...",
+        "category": "React Native",
+        "author": "Jane Smith",
+        "image": "https://example.com/images/react-native-intro.jpg",
+        "createdAt": "2024-09-02T12:30:00Z",
+        "updatedAt": "2024-09-02T12:30:00Z"
+    },
+    {
+        "title": "State Management with Redux",
+        "content": "Redux is a predictable state container for JavaScript apps. It's a great tool for managing the state of your applications...",
+        "category": "Redux",
+        "author": "Emily Johnson",
+        "image": "https://example.com/images/redux-state-management.jpg",
+        "createdAt": "2024-09-03T15:20:00Z",
+        "updatedAt": "2024-09-03T15:20:00Z"
+    }
+]
